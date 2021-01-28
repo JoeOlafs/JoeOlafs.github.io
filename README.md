@@ -1,1 +1,2 @@
-<h1>JoeOlafs.github.io</h1>
+<h1>Joe Olafs Github Page</h1>
+<h2>Text from README</h2>
